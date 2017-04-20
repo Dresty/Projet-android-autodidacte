@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ListeCourse</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="Accpeter">Accepter</string>
+    <string name="Refuser">Refuser</string>
+</resources>
